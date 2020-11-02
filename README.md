@@ -1,5 +1,5 @@
-DataX数据同步框架的clickhousewriter插件
-1.clickhouse writer插件支持的功能：基于datax现有的所有reader插件向clickhouse写入数据。
+DataX数据同步框架的clickhousereader插件
+1.clickhouse reader插件支持的功能：基于datax同步框架，使用插件流式读取clickhouse。
 2.经过测试的数据源有 MySQL，ElasticSearch，Hive，Clickhouse。
 3.Job参数优化：
 "setting": {
