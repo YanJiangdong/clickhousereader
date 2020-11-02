@@ -1,0 +1,2 @@
+# clickhousewriter
+DataX数据同步框架的clickhousewriter插件
